@@ -1,2 +1,2 @@
 # IBM-Project
-Salary Predictor
+Salary Prediction System
